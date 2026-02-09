@@ -73,7 +73,7 @@ Y produce **dos salidas**:
 
 ---
 
-### 🧠 ¿Por qué se obtiene cada salida?
+###  ¿Por qué se obtiene cada salida?
 
 | A | B | Cin | S | Cout | Explicación |
 |---|---|-----|---|------|------------|
@@ -88,7 +88,7 @@ Y produce **dos salidas**:
 
 ---
 
-### 🔍 Interpretación general
+###  Interpretación general
 
 - La **suma (S)** es `1` cuando hay una **cantidad impar de unos** en las entradas.
 - El **acarreo (Cout)** es `1` cuando **al menos dos entradas son 1**.
