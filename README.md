@@ -56,7 +56,7 @@ Los bits se representan de la siguiente manera:
 - `True` → 1
 
 ---
-## 📊 Explicación de la tabla de verdad del sumador completo
+##  Explicación de la tabla de verdad del sumador completo
 
 La tabla de verdad representa el comportamiento de un **sumador completo (Full Adder)**, el cual es el bloque fundamental del sumador de 4 bits implementado en este programa.
 
